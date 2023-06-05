@@ -403,6 +403,13 @@ members: [
       github: "nuntanunta5153"
     }
   },
+  {
+    Nishiduka: {
+      bio: "フリーランスのフロントエンドエンジニアです",
+      hobby: ["水泳", "youtube"],
+      github: "underground0930"
+    }
+  },
 ]
 
 ```
