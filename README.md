@@ -404,10 +404,10 @@ members: [
     }
   },
   {
-    Yoshitaka: {
-      bio: "Webエンジニアを目指して頑張ります！",
-      hobby: ["野球観戦", "アニメ鑑賞", "バドミントン"],
-      github: "ystk3411"
+    Nishiduka: {
+      bio: "フリーランスのフロントエンドエンジニアです",
+      hobby: ["水泳", "youtube"],
+      github: "underground0930"
     }
   },
 ]
