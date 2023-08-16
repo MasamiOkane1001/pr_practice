@@ -410,6 +410,13 @@ members: [
       github: "underground0930"
     }
   },
+  {
+    Moga: {
+      bio: "病院でリハビリ職をしています。エンジニアへの転職を目指しています",
+      hobby: ["運動全般", "トレーナー活動"],
+      github: "moga-web"
+    }
+  }	
 ]
 
 ```
