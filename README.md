@@ -424,7 +424,6 @@ members: [
       github: "Kroro1208"
     }
   },
-
 ]
 
 ```
