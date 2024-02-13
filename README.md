@@ -430,6 +430,13 @@ members: [
       hobby: ["英語学習", "筋トレ", "料理"],
       github: "Kroro1208"
     }
+  },
+  {
+    Nebbia: {
+      bio: "組込みエンジニアからWebエンジニアに転職する。東京に住む。脱ブラック企業。",
+      hobby: ["英会話", "筋トレ", "猫"],
+      github: "wiskerpaddy"
+    }
   }
 ]
 ```
