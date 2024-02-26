@@ -437,6 +437,13 @@ members: [
       hobby: ["広島カープ", "お金を稼ぐ事", "投資と節税や資産形成", "駅伝"],
       github: "Masakazu-Harada"
     }
+  },
+  {
+    Fukui: {
+      bio: "楽しく働く！がモットーです",
+      hobby: ["ポケカ", "IT資格", "サウナ", "東海オンエア"],
+      github: "pileray"
+    }
   }
 ]
 ```
